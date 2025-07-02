@@ -19,7 +19,9 @@
     </summary>
   </ul>
 </div>
+<br>
 
+---
 
 <!--Intro-->
 - 🔭 Ahora mismo estoy haciendo proyectos con HTML, CSS y JAVASCRIPT. Además estoy practicando con creación de Apis y empezando a perfilar mi trabajo final de grado
@@ -28,6 +30,8 @@
 
 - 📫 Si quieres contactar conmigo puedes hacerlo mandando un correo a **fabiomcc96@gmail.com**
 
+<br>
+---
 
 <!-- iconos de skillicons con enlace-->
 <p align="center">
