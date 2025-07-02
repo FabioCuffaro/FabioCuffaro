@@ -15,13 +15,15 @@
     <summary>
       <h2 style="display: inline-block">Sobre mi</h2>
       <h3 style="display: inline-block">Soy estudiante de último año de Desarrollo de Aplicaciones Multiplataforma y actualmente estoy estudiando un Bootcamp de Fullstack para entender mejor todo 
-      el proceso de desarrollo de aplicaciones desde las bases de datos - Backend/apis - Frontend</h3>
+      el proceso de desarrollo de aplicaciones <br> BBDD - BACKEND - FRONTEND</h3>
     </summary>
   </ul>
 </div>
-<br>
 
 ---
+
+<br>
+
 
 <!--Intro-->
 - 🔭 Ahora mismo estoy haciendo proyectos con HTML, CSS y JAVASCRIPT. Además estoy practicando con creación de Apis y empezando a perfilar mi trabajo final de grado
@@ -29,9 +31,17 @@
 - 🌱 En el futuro cercano me gustaría indagar más sobre ciberseguridad y mejorar en proyectos Fullstack
 
 - 📫 Si quieres contactar conmigo puedes hacerlo mandando un correo a **fabiomcc96@gmail.com**
+---
 
 <br>
----
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2>
+    </summary>
+  </ul>
+</div>
 
 <!-- iconos de skillicons con enlace-->
 <p align="center">
@@ -45,6 +55,9 @@
   </a>
 </p>
 
+---
+
+<br>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
