@@ -31,6 +31,9 @@
 - 🌱 En el futuro cercano me gustaría indagar más sobre ciberseguridad y mejorar en proyectos Fullstack
 
 - 📫 Si quieres contactar conmigo puedes hacerlo mandando un correo a **fabiomcc96@gmail.com**
+
+<br>
+
 ---
 
 <br>
@@ -42,6 +45,7 @@
     </summary>
   </ul>
 </div>
+<br>
 
 <!-- iconos de skillicons con enlace-->
 <p align="center">
@@ -54,6 +58,7 @@
     <img src="https://skillicons.dev/icons?i=linux,idea,vscode,ps,ai&perline=14" />
   </a>
 </p>
+<br>
 
 ---
 
