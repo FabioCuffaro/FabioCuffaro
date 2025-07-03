@@ -69,8 +69,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">Conecta conmigo🤝</h2>
-      <h4 style="display: inline-block">Puedes ver mis estudios, certificados y donde he trabajado hasta ahora, haz ctrl + click 👇 y échale un vistazo</h4>
+      <h2 style="display: inline-block">Conecta conmigo🤝</h2><br>
+      <h4 style="display: inline-block">Puedes ver mis estudios, certificados y donde he trabajado hasta ahora, haz ctrl + click y échale un vistazo</h4>
     </summary>
   </ul>
 </div>
