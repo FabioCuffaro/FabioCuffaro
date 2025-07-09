@@ -13,7 +13,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">Sobre mi</h2>
       <h3 style="display: inline-block">Soy estudiante de último año de Desarrollo de Aplicaciones Multiplataforma y actualmente estoy estudiando un Bootcamp de Fullstack para entender mejor todo 
       el proceso de desarrollo de aplicaciones <br><br> BBDD - BACKEND - FRONTEND</h3>
     </summary>
