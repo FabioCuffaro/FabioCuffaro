@@ -13,7 +13,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h3 style="display: inline-block">Soy estudiante de último año de Desarrollo de Aplicaciones Multiplataforma y actualmente estoy estudiando un Bootcamp de Fullstack para entender mejor todo 
+      <h3 style="display: inline-block">Estudiante de último año de Desarrollo de Aplicaciones Multiplataforma y actualmente estoy estudiando un Bootcamp de Fullstack para entender mejor todo 
       el proceso de desarrollo de aplicaciones <br><br> BBDD - BACKEND - FRONTEND</h3>
     </summary>
   </ul>
@@ -25,9 +25,9 @@
 
 
 <!--Intro-->
-- 🔭 Ahora mismo estoy haciendo proyectos con HTML, CSS y JAVASCRIPT. Además estoy practicando con creación de Apis y empezando a perfilar mi trabajo final de grado
+- 🔭 Ahora mismo estoy haciendo proyectos con HTML, CSS y JAVASCRIPT, JAVA, PYTHON. Además estoy practicando con creación de Apis y empezando a perfilar mi trabajo final de grado.
 
-- 🌱 En el futuro cercano me gustaría indagar más sobre ciberseguridad y mejorar en proyectos Fullstack
+- 🌱 En el futuro cercano me gustaría indagar más sobre ciberseguridad y mejorar con proyectos FullStack como mi proyecto final de grado. Actualmente trabajo de prácticas con siendo analista de datos y usando Python para obtener información y documentarla via PowerBi o Qlik.
 
 - 📫 Si quieres contactar conmigo puedes hacerlo mandando un correo a **fabiomcc96@gmail.com**
 
@@ -49,12 +49,12 @@
 <!-- iconos de skillicons con enlace-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,postgres,github,java,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,postgres,github,java,postman,react&perline=14" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,idea,vscode,ps,ai&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,flutter,aws,linux,idea,spring,vscode,ps,ai&perline=14" />
   </a>
 </p>
 <br>
